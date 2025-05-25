@@ -2,7 +2,7 @@
 This Power BI project analyzes workforce diversity and inclusion metrics to uncover representation, promotion, and retention patterns across job levels and demographic segments. It integrates employee data segmented by gender, age group, job role, and performance rating to deliver interactive dashboards for HR and executive insights. The dashboards highlight key indicators such as gender distribution in hiring and promotions, turnover rates, average performance ratings, and time-in-grade across leadership levels. Visualizations include bar charts, donut charts, heat maps, and trend lines, enabling deep exploration of equity across organizational layers. The solution empowers data-driven decision-making to advance inclusive workplace practices and leadership diversity.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Diversity-Inclusion/blob/main/Diversity-Inclusion-Dataset.xlsx"
 
 ## Objectives of the project
 1) To track and visualize workforce diversity metrics across gender, age groups, and job levels using key indicators such as hiring ratios, promotion rates, and turnover percentages.
@@ -26,10 +26,10 @@ Dataset = ""
 
 
 ## Power BI file
-Power BI File = ""
+Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Diversity-Inclusion/blob/main/Diversity-Inclusion.pbix"
 
 ## PDF file of Dashboard
-PDF File =  ""
+PDF File =  "https://github.com/SubhankarMukherjee-portfolio/Diversity-Inclusion/blob/main/Diversity-Inclusion.pdf"
 
 ![image](https://github.com/user-attachments/assets/676bdc45-2acc-45a4-8613-f7fa58d8477c)
 
