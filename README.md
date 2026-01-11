@@ -31,8 +31,7 @@ Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Diversity-Inclu
 ## PDF file of Dashboard
 PDF File =  "https://github.com/SubhankarMukherjee-portfolio/Diversity-Inclusion/blob/main/Diversity-Inclusion.pdf"
 
-![image](https://github.com/user-attachments/assets/676bdc45-2acc-45a4-8613-f7fa58d8477c)
-
+<img width="1301" height="486" alt="diversity inclusion" src="https://github.com/user-attachments/assets/6df29488-e7a3-4037-8923-605aead08f7d" />
 
 ## Final Observations & Storyline
 The organizational talent ecosystem reflects a youthful workforce, with 215 employees aged 20–29 and 161 aged 30–39, together forming 78% of the base. Junior Officers (160) dominate headcount, accounting for 94.67% of the 20–29 age group, yet suffer the highest turnover at 53.43%. Gender hiring is nearly balanced—51.5% female vs 48.5% male—yet promotion rates show disparity: only 25% of females were promoted vs 64.3% of their male peers at the same junior level. Average time in grade for promotions varies widely—from 1.80 years for Senior Managers to 3.40 years for Directors—highlighting bottlenecks at the top. Performance ratings show a narrow gender gap (2.42 for women vs 2.41 for men), but female leavers had slightly higher attrition (11.2%) than men (9.3%). Notably, performance ratings among leavers were consistently lower than non-leavers across levels, signaling disengagement before exit. Promotion trends are skewed at senior levels—only 2.9% female promotions at Director level vs 25% at Junior Officer level—indicating a glass ceiling. Among the 87 FY21 promotions, average performance hovered around mid-scale (Rating 3), suggesting moderate growth culture. Overall, the data paints a picture of a young, diverse but hierarchically rigid workforce with evident gaps in gender equity and upward mobility.
